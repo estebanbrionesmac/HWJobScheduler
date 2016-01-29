@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JobScheduler</string>
+    <string name="constraints">Constrains</string>
+    <string name="connectivity">Conectivity</string>
+    <string name="any">Any</string>
+    <string name="unmetered">Unmetered</string>
+    <string name="timing">Timing</string>
+    <string name="delay">Delay</string>
+    <string name="charging_caption">Charging caption</string>
+    <string name="charging_text">Charging text</string>
+    <string name="idle_caption">Idle caption</string>
+</resources>
